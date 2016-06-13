@@ -3,7 +3,7 @@
 	Title : Adorable Weather
 	Description : This webpage gives weather forecast of the user location by detecting user,s geolocation from WebBrowser or by entering the location.
 	Author : Akash Anilkumar Patel
-	Create Date : 13th June 2016
+	Create Date : 6th June 2016
 */
 $apikey = "05843fdfbb835f7a";
 $locationcity = "";
